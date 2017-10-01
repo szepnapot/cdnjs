@@ -1,5 +1,5 @@
 {
-  "name": "webtorrent-element",
+  "name": "webtorrent-component",
   "version": "1.0.2",
   "description": "An HTML element you can use to display content on WebTorrent.",
   "filename": "index.min.js",
