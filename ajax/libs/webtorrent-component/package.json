@@ -1,0 +1,27 @@
+{
+  "name": "webtorrent-element",
+  "version": "1.0.2",
+  "description": "An HTML element you can use to display content on WebTorrent.",
+  "filename": "index.min.js",
+  "keywords": [
+    "WebTorrent",
+    "HTML element",
+    "UI",
+    "component"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/webtorrent-component.git"
+  },
+  "npmName": "webtorrent-component",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
+}
